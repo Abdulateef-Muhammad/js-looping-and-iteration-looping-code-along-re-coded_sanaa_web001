@@ -23,5 +23,5 @@ writeCards(
     }
   }
   
-  
+  countDown(20);
   
