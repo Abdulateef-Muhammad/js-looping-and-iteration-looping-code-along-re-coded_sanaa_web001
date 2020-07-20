@@ -15,7 +15,13 @@ writeCards(
   "Ali"],
   "birthday");
   
-  function countDown()
+  function countDown(num) {
+    let i = num;
+    while(i > 0) {
+      console.log(i);
+      i--;
+    }
+  }
   
   
   
